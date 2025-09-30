@@ -2,6 +2,8 @@
 content_type: page
 description: 'This syllabus section provides the course description and information
   on meeting times, textbooks, requirements, grading, and a statement on plagiarism. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -129,4 +131,4 @@ In addition to welcoming your participation in class, I encourage you to discuss
 Literature Section Plagiarism Policy
 ------------------------------------
 
-Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarise will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center and the {{% resource_link "0766b765-081d-43e4-8d68-83e5d26b7185" "MIT Web site on Plagiarism" %}}.
+Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarise will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).

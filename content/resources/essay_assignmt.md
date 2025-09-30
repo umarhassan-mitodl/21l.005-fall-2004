@@ -4,6 +4,8 @@ description: Instructions, reminders and guidelines for a research essay assignm
 file: /courses/21l-005-introduction-to-drama-fall-2004/895dfbf7c25df9e04c4a80b4eaac1a29_essay_assignmt.pdf
 file_size: 10165
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

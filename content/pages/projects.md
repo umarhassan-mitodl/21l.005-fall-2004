@@ -3,6 +3,8 @@ content_type: page
 description: This section provides videos of two class sessions featuring students'
   discussion and performance of Luigi Pirandello's Six Characters in Search of an
   Author and Bertolt Brecht's Galileo.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ During the fall of 2004, two sessions of 21L.005 were recorded especially for Op
 Session 1
 ---------
 
-Video: ({{% resource_link "9a7a5016-5a87-4c36-81cc-ec58b29c5046" "MP4 - 172MB" %}})
+Video: ([MP4 - 172MB](https://archive.org/download/MIT21L.005F04/ocw-21l.005-15nov2004-220k.mp4))
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -160,7 +162,7 @@ Prof. Henderson discusses different interpretations of male and female roles in 
 Session 2
 ---------
 
-Video: ({{% resource_link "72eff812-30ad-4d66-a1da-c81eff0f6fd2" "MP4 - 161MB" %}})
+Video: ([MP4 - 161MB](https://archive.org/download/MIT21L.005F04/ocw-21l.005-22nov2004-220k.mp4))
 
 {{< tableopen >}}
 {{< theadopen >}}
