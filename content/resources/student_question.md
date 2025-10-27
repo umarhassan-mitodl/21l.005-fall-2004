@@ -5,8 +5,6 @@ description: Student's questions and ideas regarding 'Death and the King's Horse
 file: /courses/21l-005-introduction-to-drama-fall-2004/c972b8ebb194324633f68377e0fdcd12_student_question.pdf
 file_size: 16797
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
